@@ -13,9 +13,9 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-organizations:
-- name: Magnolia CMS
-  url: "https://www.magnolia-cms.com/"
+# organizations:
+# - name: Magnolia CMS
+#   url: "https://www.magnolia-cms.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research intts include distributed robotics, mobile computing and programmable matter.

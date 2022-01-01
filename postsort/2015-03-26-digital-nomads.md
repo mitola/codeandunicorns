@@ -1,10 +1,9 @@
 ---
-id: 2583
 title: Vagabonding about the world
 date: 2019-11-21T13:14:54+00:00
 author: Matjaz Trcek
 layout: revision
-guid: https://codeandunicorns.com/2176-revision-v1/
+
 permalink: /2176-revision-v1/
 ---
 <div  class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth"  style='background-color: #ffffff;background-position: center center;background-repeat: no-repeat;padding-top:20px;padding-right:0px;padding-bottom:20px;padding-left:0px;'>

@@ -1,15 +1,19 @@
 ---
 title: My top 5 programmer jokes
 date: 2015-01-15T20:24:51+00:00
-author: Matjaz Trcek
-layout: post
 
-image: /wp-content/uploads/2015/01/livelovelaugh-e1425128694484.jpg
+authors:
+- admin
+
+
+# image: 
+#   "livelovelaugh.jpg"
+#   focal_point: ""
 categories:
   - ALL
   - Entertainment
-format: quote
 ---
+![love laugh](posts/livelovelaugh.jpg "")
 The collected jokes are my personal favorites from IT therefore i compiled for the world to see. The OP&#8217;s are available through title of the joke.
 
 Cheers

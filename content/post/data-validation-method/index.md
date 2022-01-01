@@ -1,11 +1,6 @@
 ---
 title: 3 Data validation methods in javascript
-date: 2012-11-04T18:43:44+00:00
 
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 date: "2012-10-31T20:12:09+00:00"
 
 # Link this post with a project

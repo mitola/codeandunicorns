@@ -1,7 +1,8 @@
 ---
 title: Correct width in all browsers (JS snippet)
 date: 2012-11-04T17:24:53+00:00
-author: Matjaz Trcek
+authors:
+- admin
 layout: post
 
 categories:
@@ -18,6 +19,7 @@ Basically with help of this JS snippet you get your width of the page correctly
 displayed in old IE6 and IE4 if you need to make it compatible with them or  
 android/chrome/other browsers.
 
+```
 <div  class="fusion-fullwidth fullwidth-box hundred-percent-fullwidth"  style='background-color: #ffffff;background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;'>
   <div class="fusion-builder-row fusion-row ">
     <div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last fusion-column-no-min-height 1_1"  style='margin-top:0px;margin-bottom:0px;'>
@@ -73,8 +75,9 @@ function get_height() {
 }
 </pre>
         
-        <p>
-          This JS snippets can be quite hard to find so hopefully this helps people who are searching for something like this.
-          
-          <div class="fusion-clearfix">
-          </div></div> </div></div></div>
+<p>
+  This JS snippets can be quite hard to find so hopefully this helps people who are searching for something like this.
+  
+  <div class="fusion-clearfix">
+  </div></div> </div></div></div>
+```

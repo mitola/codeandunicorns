@@ -1,8 +1,9 @@
 ---
 title: Simple .csv file parser
 date: 2014-09-13T19:26:12+00:00
-author: Matjaz Trcek
-layout: post
+
+authors:
+- admin
     
 categories:
   - ALL
