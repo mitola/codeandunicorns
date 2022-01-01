@@ -1,5 +1,4 @@
 ---
-id: 2349
 title: How to setup automatic Lets Encrypt renewal with cronjob when using Easy Engine
 date: 2017-12-23T17:37:45+00:00
 author: Matjaz Trcek

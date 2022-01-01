@@ -1,5 +1,4 @@
 ---
-id: 2051
 title: Observation analysis of Messier 31 super massive black hole
 date: 2017-01-13T10:55:36+00:00
 author: Matjaz Trcek

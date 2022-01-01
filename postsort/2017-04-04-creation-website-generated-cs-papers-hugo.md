@@ -1,5 +1,4 @@
 ---
-id: 2169
 title: 'Creation of website &#8211; Generated CS Papers with Hugo'
 date: 2017-04-04T15:19:39+00:00
 author: Matjaz Trcek

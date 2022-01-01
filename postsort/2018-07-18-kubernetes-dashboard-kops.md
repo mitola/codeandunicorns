@@ -1,5 +1,4 @@
 ---
-id: 2439
 title: Kubernetes Dashboard with kops
 date: 2018-07-18T13:01:05+00:00
 author: Matjaz Trcek

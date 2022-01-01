@@ -1,5 +1,4 @@
 ---
-id: 2477
 title: Reboot reborn
 date: 2018-08-16T15:28:58+00:00
 author: Matjaz Trcek

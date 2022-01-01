@@ -1,5 +1,4 @@
 ---
-id: 2266
 title: Boilerplate for Electron with React and Material UI
 date: 2017-08-18T14:25:47+00:00
 author: Matjaz Trcek

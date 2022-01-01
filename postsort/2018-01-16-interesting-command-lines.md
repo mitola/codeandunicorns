@@ -1,5 +1,4 @@
 ---
-id: 2355
 title: Interesting command lines
 date: 2018-01-16T14:18:22+00:00
 author: Matjaz Trcek

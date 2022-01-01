@@ -1,5 +1,4 @@
 ---
-id: 2509
 title: 'Get weekly CPU usage function &#8211; AWS Python Lambda'
 date: 2018-08-23T15:25:35+00:00
 author: Matjaz Trcek

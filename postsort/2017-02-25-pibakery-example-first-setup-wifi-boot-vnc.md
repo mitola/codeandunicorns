@@ -1,5 +1,4 @@
 ---
-id: 2130
 title: Pibakery example of first setup with wifi and on boot VNC ( for updated version of pibakery)
 date: 2017-02-25T13:48:07+00:00
 author: Matjaz Trcek

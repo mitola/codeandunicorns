@@ -1,5 +1,4 @@
 ---
-id: 2136
 title: Duplicity scp/ssh backup on raspberry Pi
 date: 2017-03-01T15:19:14+00:00
 author: Matjaz Trcek

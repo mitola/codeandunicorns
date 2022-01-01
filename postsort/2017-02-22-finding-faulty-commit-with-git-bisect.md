@@ -1,5 +1,4 @@
 ---
-id: 2124
 title: Finding faulty commit with git bisect
 date: 2017-02-22T17:57:17+00:00
 author: Matjaz Trcek

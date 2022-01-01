@@ -1,5 +1,4 @@
 ---
-id: 2338
 title: Smart home devices for 2017
 date: 2017-11-21T17:18:52+00:00
 author: Matjaz Trcek

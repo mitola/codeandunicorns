@@ -1,5 +1,4 @@
 ---
-id: 2032
 title: 'Gorvak &#8211; Sentient species of trees in a far away land'
 date: 2016-12-10T22:18:51+00:00
 author: Matjaz Trcek

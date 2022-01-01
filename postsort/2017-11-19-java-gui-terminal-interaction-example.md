@@ -1,5 +1,4 @@
 ---
-id: 2324
 title: Java GUI terminal interaction example
 date: 2017-11-19T13:24:08+00:00
 author: Matjaz Trcek

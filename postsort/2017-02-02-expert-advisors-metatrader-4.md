@@ -1,5 +1,4 @@
 ---
-id: 2069
 title: Expert Advisors on Metatrader 4
 date: 2017-02-02T22:53:25+00:00
 author: Joao Pereira

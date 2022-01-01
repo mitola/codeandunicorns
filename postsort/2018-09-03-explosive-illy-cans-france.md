@@ -1,5 +1,4 @@
 ---
-id: 2566
 title: Vagabund developer
 date: 2019-10-25T13:53:06+00:00
 author: Matjaz Trcek

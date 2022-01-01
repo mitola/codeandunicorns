@@ -1,5 +1,4 @@
 ---
-id: 2529
 title: Home
 date: 2018-09-27T13:44:43+00:00
 author: Matjaz Trcek

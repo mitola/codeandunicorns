@@ -1,5 +1,4 @@
 ---
-id: 2466
 title: Brother’s love
 date: 2018-08-16T14:05:06+00:00
 author: Matjaz Trcek

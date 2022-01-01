@@ -1,5 +1,4 @@
 ---
-id: 2363
 title: Using nativefier for creation of desktop application based on electron with any website
 date: 2018-02-26T16:02:36+00:00
 author: Matjaz Trcek

@@ -1,5 +1,4 @@
 ---
-id: 2481
 title: Progression
 date: 2018-08-16T15:30:09+00:00
 author: Matjaz Trcek

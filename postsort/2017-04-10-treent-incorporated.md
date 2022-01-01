@@ -1,5 +1,4 @@
 ---
-id: 2181
 title: Treent Incorporated
 date: 2017-04-10T15:30:24+00:00
 author: Matjaz Trcek

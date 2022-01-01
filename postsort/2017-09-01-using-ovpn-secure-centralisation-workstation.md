@@ -1,5 +1,4 @@
 ---
-id: 2288
 title: Using OVPN as secure centralisation to your workstation
 date: 2017-09-01T22:31:16+00:00
 author: Matjaz Trcek

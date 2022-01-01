@@ -1,5 +1,4 @@
 ---
-id: 2534
 title: How to start Go like a pro
 date: 2018-11-14T15:48:47+00:00
 author: Matjaz Trcek

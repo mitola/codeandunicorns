@@ -1,5 +1,4 @@
 ---
-id: 2238
 title: 'Booktop &#8211; Raspberry Pi zero W powered laptop book'
 date: 2017-06-11T22:15:01+00:00
 author: Matjaz Trcek

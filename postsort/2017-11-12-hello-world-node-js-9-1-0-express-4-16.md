@@ -1,5 +1,4 @@
 ---
-id: 2306
 title: 'Hello world with Node.JS 9.1.0 &#038; Express 4.16.*'
 date: 2017-11-12T16:43:58+00:00
 author: Matjaz Trcek

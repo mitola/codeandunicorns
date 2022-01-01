@@ -1,5 +1,4 @@
 ---
-id: 2215
 title: 'Acer Travelmate 4150 retrofitting to Raspberry Pi Laptop: Part 2 – Working LCD and Raspbian'
 date: 2017-05-01T14:48:59+00:00
 author: Matjaz Trcek

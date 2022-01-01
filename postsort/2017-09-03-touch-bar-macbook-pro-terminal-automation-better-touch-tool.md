@@ -1,5 +1,4 @@
 ---
-id: 2275
 title: 'Touch bar (Macbook pro) terminal automation &#8211; Better Touch Tool'
 date: 2017-09-03T22:15:38+00:00
 author: Matjaz Trcek

@@ -1,5 +1,4 @@
 ---
-id: 2530
 title: 'Unicorn&#8217;s stylograph desk'
 date: 2018-09-27T13:45:25+00:00
 author: Matjaz Trcek

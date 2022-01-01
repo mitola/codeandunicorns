@@ -1,5 +1,4 @@
 ---
-id: 2110
 title: Installing Docker on Linode with WordPress image
 date: 2017-02-17T16:39:03+00:00
 author: Matjaz Trcek

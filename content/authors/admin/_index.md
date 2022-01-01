@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Matjaz Trcek
+title: Code and Unicorns
 
 # Is this the primary user of the site?
 superuser: true

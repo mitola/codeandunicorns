@@ -1,5 +1,4 @@
 ---
-id: 2479
 title: Lively asteroid
 date: 2018-08-16T15:29:36+00:00
 author: Matjaz Trcek
