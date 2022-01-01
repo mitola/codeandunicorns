@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: custom
+theme: mr_robot
 day_night: true
-font: 'mr_robot' 
+font: 'rose' 
 # cyberpunk
 font_size: M
 
