@@ -7,8 +7,8 @@
 
 theme: custom
 day_night: true
-font: ''
-font_size: L
+font: 'Mr Robot'
+font_size: M
 
 # SEO
 
@@ -64,7 +64,7 @@ copyright_license:
   notice: 'This work is licensed under {license}'
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 comments:
   provider: ''

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Matjaz Trcek
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+# role: 数据科学家
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: 腾讯
-  url: ""
+- name: Magnolia CMS
+  url: "https://www.magnolia-cms.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research intts include distributed robotics, mobile computing and programmable matter.
 
 #interests:
 #- Artificial Intelligence
@@ -47,15 +47,15 @@ social:
   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/wowchemy
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/geocushen
+  link: https://twitter.com/mitola001
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://instagram.com/geocushen
 
 # Uncomment below for Github link
-#- icon: github
+# - icon: github
 #  icon_pack: fab
-#  link: https://github.com/gcushen
+#  link: https://github.com/mitola
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "matjaz.trcek1@gmail.com"
 ---
 
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
