@@ -9,6 +9,7 @@ categories:
   - Poem
 ---
 ![Mars the fourth](posts/marsthefourth.jpg "")
+
 Throughout the eons of yesterday’s, I have watched you.
 Watched your fiery soul develop, melt and burn.
 Reshaping through time forever more, forming bumps and cracks till flat ain’t no more.

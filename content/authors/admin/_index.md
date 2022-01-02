@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Code and Unicorns
+title: Matjaz Trcek
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ status:
 #   url: "https://www.magnolia-cms.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research intts include distributed robotics, mobile computing and programmable matter.
+bio: Working as an SRE in Magnolia CMS. In my free time I work on many side projects some of which are covered in this blog. 
 
 #interests:
 #- Artificial Intelligence
@@ -67,6 +67,9 @@ social:
 email: "matjaz.trcek1@gmail.com"
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Matjaz Trcek is an avid traveller, SRE, and a person that sometimes
+dabbles into writting fiction and poetry. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I like to cover multitude of topics such as electronics, 
+different quirky projects for which I sometimes wonder, why not? 
+And topics that will hopefully help some people with their own proffesional struggles.
