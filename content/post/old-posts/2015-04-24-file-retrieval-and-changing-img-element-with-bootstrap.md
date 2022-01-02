@@ -1,7 +1,8 @@
 ---
 title: File retrieval and changing img element with Bootstrap
 date: 2015-04-24T09:40:05+00:00
-author: Matjaz Trcek
+authors:
+- admin
 layout: post
 categories:
   - ALL
