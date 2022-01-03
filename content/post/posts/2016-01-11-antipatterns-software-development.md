@@ -1,7 +1,8 @@
 ---
 title: Antipatterns in software development
 date: 2016-01-11T17:30:08+00:00
-author: Matjaz Trcek
+authors:
+- admin
 
 categories:
   - ALL

@@ -1,7 +1,8 @@
 ---
 title: docker-compose Jenkins with persistent data
 date: 2018-06-06T15:46:03+00:00
-author: Matjaz Trcek
+authors:
+- admin
 
 categories:
   - ALL

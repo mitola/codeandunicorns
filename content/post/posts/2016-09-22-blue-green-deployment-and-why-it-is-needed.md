@@ -1,7 +1,8 @@
 ---
 title: What is blue-green deployment and why do we need it?
 date: 2016-09-22T15:24:19+00:00
-author: Matjaz Trcek
+authors:
+- admin
 categories:
   - ALL
 ---

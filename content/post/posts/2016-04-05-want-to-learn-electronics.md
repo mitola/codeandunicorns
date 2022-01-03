@@ -1,7 +1,8 @@
 ---
 title: Want to learn electronics?
 date: 2016-04-05T13:48:29+00:00
-author: Matjaz Trcek
+authors:
+- admin
 
 categories:
   - ALL

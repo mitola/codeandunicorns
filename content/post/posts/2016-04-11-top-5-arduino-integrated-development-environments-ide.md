@@ -1,7 +1,8 @@
 ---
 title: Top 5 Arduino integrated development environments ( IDE )
 date: 2016-04-11T17:23:08+00:00
-author: Matjaz Trcek
+authors:
+- admin
 
 categories:
   - ALL

@@ -6,32 +6,32 @@ authors:
 ---
 ![flyiohousio](posts/flyiohousio.jpg "")
 
-I’m a house on the Oxfordshire road up the left,
-You are the one,
-Looking at me every day.
+I’m a house on the Oxfordshire road up the left,  
+You are the one,  
+Looking at me every day.  
 
-Opposite each other,
-But one in heart.
+Opposite each other,  
+But one in heart.  
 
-The families of old 17th and 18th century cottages,
-All around.
+The families of old 17th and 18th century cottages,  
+All around.  
 
-They despise what we have found,
-Love where there wasn’t one.
+They despise what we have found,  
+Love where there wasn’t one.  
 
-What to do,
-When the whole society is against you?
+What to do,  
+When the whole society is against you?  
 
-Begone,
-It’s enough!
+Begone,  
+It’s enough!  
 
-One night,
-When all other houses are in slumber deep.
-We erect our foundations, and fly into space,
-Fly fly till we reach an asteroid of Love.
+One night,  
+When all other houses are in slumber deep.  
+We erect our foundations, and fly into space,  
+Fly fly till we reach an asteroid of Love.  
 
-For when we reached it,
-Many years thereafter,
-We have finally become one,
-Individual but somehow,
-Semi-detached house.
+For when we reached it,  
+Many years thereafter,  
+We have finally become one,  
+Individual but somehow,  
+Semi-detached house.  

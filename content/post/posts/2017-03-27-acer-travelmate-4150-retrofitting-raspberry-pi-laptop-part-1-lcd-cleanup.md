@@ -1,7 +1,8 @@
 ---
 title: 'Acer Travelmate 4150 retrofitting to Raspberry Pi Laptop: Part 1 - LCD and cleanup'
 date: 2017-03-27T14:00:55+00:00
-author: Matjaz Trcek
+authors:
+- admin
 
 categories:
   - ALL

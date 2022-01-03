@@ -1,7 +1,8 @@
 ---
 title: Learn to code through games
 date: 2016-04-19T15:04:59+00:00
-author: Matjaz Trcek
+authors:
+- admin
 
 categories:
   - ALL

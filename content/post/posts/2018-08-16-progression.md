@@ -9,28 +9,28 @@ categories:
   - Poem
 ---
 ![scifimeditation](posts/scifimeditation.jpg "")
-When you look at yourself,
-In this modern day and age.
-Do you ever stop,
-To think to yourself?
+When you look at yourself,  
+In this modern day and age.  
+Do you ever stop,  
+To think to yourself?  
 
-Do you ever stop,
-And see difference from the past?
+Do you ever stop,  
+And see difference from the past?  
 
-Merit knowledge we posses,
-Has exponentially evolved.
+Merit knowledge we posses,  
+Has exponentially evolved.  
 
-There no point,
-To be petrified by yourself,
-Emotions that are in the loop,
-for the last million or so years.
+There no point,  
+To be petrified by yourself,  
+Emotions that are in the loop,  
+for the last million or so years.  
 
-Embrace the newness,
-That the current future is.
+Embrace the newness,  
+That the current future is.  
 
-The possibilities it opens,
-And gifts of knowledge and tranquility it brings.
+The possibilities it opens,  
+And gifts of knowledge and tranquility it brings.  
 
-Rejoice!
-Let’s rejoice ourselves,
-With embrace of wisdom.
+Rejoice!  
+Let’s rejoice ourselves,  
+With embrace of wisdom.  
