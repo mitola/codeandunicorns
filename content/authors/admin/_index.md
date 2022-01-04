@@ -6,7 +6,7 @@ title: Matjaz Trcek
 superuser: true
 
 # Role/position
-# role: 数据科学家
+role: SRE @ Magnolia CMS
 
 # Status emoji
 status:
@@ -20,10 +20,11 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: Working as an SRE in Magnolia CMS. In my free time I work on many side projects some of which are covered in this blog. 
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Electronics
+- Poetry & prose
+- DevOps
+- Expedition cycling & motorbiking
 
 #education:
 #  courses:
@@ -53,9 +54,9 @@ social:
 #   link: https://instagram.com/geocushen
 
 # Uncomment below for Github link
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/mitola
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mitola
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -73,3 +74,4 @@ dabbles into writting fiction and poetry.
 I like to cover multitude of topics such as electronics, 
 different quirky projects for which I sometimes wonder, why not? 
 And topics that will hopefully help some people with their own proffesional struggles.
+
